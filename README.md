@@ -181,9 +181,9 @@ To begin my career as a **Software Engineer** in a growth-oriented organization 
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=santhosh-kumar-0&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=santhosh-kumar-0&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santhosh-kumar-0&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santhosh-kumar-0&layout=compact&theme=github_dark&hide_border=true"/>
 
 </div>
 
@@ -207,8 +207,7 @@ To begin my career as a **Software Engineer** in a growth-oriented organization 
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=santhosh-kumar-0&theme=algolia&no-frame=true&no-bg=true&margin-w=12&row=1"/>
-
+<img src="https://github-profile-trophy.vercel.app/?username=santhosh-kumar-0&theme=onedark&no-frame=true&no-bg=true&row=1&column=6"/>
 </div>
 
 ---
