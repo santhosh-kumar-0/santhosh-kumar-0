@@ -235,77 +235,73 @@ To begin my career as a **Software Engineer** in a growth-oriented organization 
 
 > **A selection of projects showcasing my experience in Java, Python, Web Development, and Full Stack Development.**
 
-<div align="center">
-
 <table>
 
 <tr>
 
-<td width="33%" valign="top">
+<td width="31%" valign="top">
 
 ### 🎓 Student Management
 
-**Desktop CRUD System**
+**Desktop CRUD Application**
 
-`Java` `JDBC` `MySQL`
-
-✔ CRUD
-
-✔ Database
+`Java` • `JDBC` • `MySQL`
 
 ✔ Student Records
 
-<br>
+✔ CRUD Operations
 
-<a href="YOUR_REPO_LINK">
-<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+✔ Database Integration
+
+---
+
+💻 Java Desktop Project
 
 </td>
 
-<td width="33%" valign="top">
+<td width="3%"></td>
+
+<td width="31%" valign="top">
 
 ### 💊 Medical Invoice
 
-**MERN Application**
+**MERN Stack Application**
 
-`MongoDB` `Express`
+`MongoDB` • `Express`
 
-`React` `Node`
+`React` • `Node.js`
 
-✔ Invoice
+✔ Invoice Management
 
-✔ CRUD
+✔ CRUD Operations
 
-✔ Authentication
+✔ Responsive UI
 
-<br>
+---
 
-<a href="YOUR_REPO_LINK">
-<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+🌐 Full Stack MERN Project
 
 </td>
 
-<td width="33%" valign="top">
+<td width="3%"></td>
+
+<td width="31%" valign="top">
 
 ### 🤖 AI Summarizer
 
 **Python Desktop App**
 
-`Python` `PyQt`
+`Python` • `PyQt`
 
 ✔ AI Notes
 
-✔ GUI
+✔ Desktop GUI
 
-✔ Fast Summary
+✔ Fast Processing
 
-<br>
+---
 
-<a href="YOUR_REPO_LINK">
-<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+🐍 Python Desktop Project
 
 </td>
 
@@ -313,11 +309,21 @@ To begin my career as a **Software Engineer** in a growth-oriented organization 
 
 <tr>
 
-<td width="33%" valign="top">
+<td colspan="5">
+
+<br>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="31%" valign="top">
 
 ### 🚗 Car Accessories
 
-**MERN Stack**
+**MERN Stack Project**
 
 `MongoDB`
 
@@ -325,24 +331,111 @@ To begin my career as a **Software Engineer** in a growth-oriented organization 
 
 `React`
 
-`Node`
+`Node.js`
 
-✔ Products
+✔ Product Catalog
 
-✔ CRUD
+✔ CRUD Operations
 
-✔ Responsive
+✔ Responsive UI
 
-<br>
+---
 
-<a href="YOUR_REPO_LINK">
-<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+🚀 MERN Full Stack Project
 
 </td>
 
-<td width="33%" valign="top">
+<td width="3%"></td>
 
+<td width="31%" valign="top">
+
+### 🌐 Portfolio
+
+**Responsive Portfolio**
+
+`HTML5`
+
+`CSS3`
+
+`JavaScript`
+
+✔ Modern UI
+
+✔ Responsive Design
+
+✔ Project Showcase
+
+---
+
+🎨 Frontend Portfolio
+
+</td>
+
+<td width="3%"></td>
+
+<td width="31%" valign="top">
+
+### 🛍️ StyleVibe
+
+**E-Commerce Website**
+
+`HTML5`
+
+`CSS3`
+
+`JavaScript`
+
+✔ Shopping UI
+
+✔ Responsive Layout
+
+✔ Product Showcase
+
+---
+
+🛒 Frontend Web Project
+
+</td>
+
+</tr>
+
+<tr>
+
+<td colspan="5">
+
+<br>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="100%" colspan="5" align="center">
+
+### ✈️ Travel Web App
+
+**Responsive Travel Website**
+
+`HTML5` • `CSS3` • `JavaScript`
+
+✔ Destination Explorer
+
+✔ Responsive Design
+
+✔ Modern Interface
+
+---
+
+🌍 Responsive Frontend Project
+
+</td>
+
+</tr>
+
+</table>
+
+---
 ### 🌐 Portfolio
 
 **Responsive Website**
