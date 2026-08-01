@@ -181,16 +181,6 @@ To begin my career as a **Software Engineer** in a growth-oriented organization 
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=santhosh-kumar-0&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santhosh-kumar-0&layout=compact&theme=github_dark&hide_border=true"/>
-
-</div>
-
----
-
-<div align="center">
-
 <img width="70%" src="https://streak-stats.demolab.com?user=santhosh-kumar-0&theme=tokyonight&hide_border=true"/>
 
 </div>
@@ -212,13 +202,6 @@ To begin my career as a **Software Engineer** in a growth-oriented organization 
 
 ---
 
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=santhosh-kumar-0&label=Profile%20Views&style=for-the-badge&color=0A66C2"/>
-
-<img src="https://img.shields.io/github/followers/santhosh-kumar-0?label=Followers&style=for-the-badge&logo=github"/>
-
-</div>
 
 ---
 
