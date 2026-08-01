@@ -197,16 +197,6 @@ To begin my career as a **Software Engineer** in a growth-oriented organization 
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=santhosh-kumar-0&theme=onedark&no-frame=true&no-bg=true&row=1&column=6"/>
-</div>
-
----
-
-
----
-
-<div align="center">
-
 ### 💡 Developer Philosophy
 
 *"Consistency in learning and building projects is the foundation of becoming a better software engineer."*
