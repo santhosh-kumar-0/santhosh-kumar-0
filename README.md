@@ -233,64 +233,195 @@ To begin my career as a **Software Engineer** in a growth-oriented organization 
 ---
 # 🚀 Featured Projects
 
-> **Some of the projects I've built to strengthen my software development and full-stack development skills.**
+> **A selection of projects showcasing my experience in Java, Python, Web Development, and Full Stack Development.**
 
----
+<div align="center">
 
-### 🎓 Student Management System
+<table>
 
-**Desktop CRUD Application**
+<tr>
+
+<td width="33%" valign="top">
+
+### 🎓 Student Management
+
+**Desktop CRUD System**
 
 `Java` `JDBC` `MySQL`
 
-- Student Record Management
-- CRUD Operations
-- Database Integration
+✔ CRUD
 
-[![Repository](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/santhosh-kumar-0)
+✔ Database
 
----
+✔ Student Records
 
-### 💊 Medical Invoice Generator
+<br>
 
-**MERN Stack Web Application**
+<a href="YOUR_REPO_LINK">
+<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-`MongoDB` `Express.js` `React` `Node.js`
+</td>
 
-- Invoice Management
-- CRUD Operations
-- Responsive Interface
+<td width="33%" valign="top">
 
-[![Repository](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/santhosh-kumar-0)
+### 💊 Medical Invoice
 
----
+**MERN Application**
 
-### 🤖 AI Note Summarizer
+`MongoDB` `Express`
 
-**Python Desktop Application**
+`React` `Node`
+
+✔ Invoice
+
+✔ CRUD
+
+✔ Authentication
+
+<br>
+
+<a href="YOUR_REPO_LINK">
+<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+<td width="33%" valign="top">
+
+### 🤖 AI Summarizer
+
+**Python Desktop App**
 
 `Python` `PyQt`
 
-- AI-based Note Summarization
-- Desktop GUI
-- Fast Processing
+✔ AI Notes
 
-[![Repository](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/santhosh-kumar-0)
+✔ GUI
+
+✔ Fast Summary
+
+<br>
+
+<a href="YOUR_REPO_LINK">
+<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="33%" valign="top">
+
+### 🚗 Car Accessories
+
+**MERN Stack**
+
+`MongoDB`
+
+`Express`
+
+`React`
+
+`Node`
+
+✔ Products
+
+✔ CRUD
+
+✔ Responsive
+
+<br>
+
+<a href="YOUR_REPO_LINK">
+<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+<td width="33%" valign="top">
+
+### 🌐 Portfolio
+
+**Responsive Website**
+
+`HTML`
+
+`CSS`
+
+`JavaScript`
+
+✔ Modern UI
+
+✔ Responsive
+
+✔ Projects
+
+<br>
+
+<a href="YOUR_REPO_LINK">
+<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+<td width="33%" valign="top">
+
+### 🛍️ StyleVibe
+
+**E-Commerce UI**
+
+`HTML`
+
+`CSS`
+
+`JavaScript`
+
+✔ Shopping UI
+
+✔ Responsive
+
+✔ Products
+
+<br>
+
+<a href="YOUR_REPO_LINK">
+<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td colspan="3" align="center">
+
+### ✈️ Travel Web App
+
+**Responsive Travel Website**
+
+`HTML` `CSS` `JavaScript`
+
+✔ Destinations • ✔ Modern UI • ✔ Responsive
+
+<br>
+
+<a href="YOUR_REPO_LINK">
+<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+</tr>
+
+</table>
+
+</div>
 
 ---
-
-### 🚗 Car Accessories Store
-
-**MERN Stack Application**
-
-`MongoDB` `Express.js` `React` `Node.js`
-
-- Product Catalog
-- CRUD Operations
-- Responsive UI
-
-[![Repository](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/santhosh-kumar-0)
-
 ---
 
 ### 🌐 Portfolio Website
