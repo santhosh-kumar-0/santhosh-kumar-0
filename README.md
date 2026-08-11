@@ -2,235 +2,219 @@
 
 # 𝙎𝘼𝙉𝙏𝙃𝙊𝙎𝙃𝙆𝙐𝙈𝘼𝙍 𝙍
 
-### Software Developer • Java Developer • MERN Stack Developer
+### `Software Developer` • `Java Developer` • `MERN Stack Developer`
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Software+Developer;Java+Developer;MERN+Stack+Developer;Problem+Solver;Building+Real-World+Applications;Preparing+for+Top+MNC+Placements" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=760&lines=Building+Real-World+Applications;Java+%7C+Python+%7C+MERN+Stack;Full+Stack+Development;Problem+Solving+%26+DSA;Learning.+Building.+Improving." alt="Animated typing introduction"/>
 
 <br>
 
-<a href="https://www.linkedin.com/in/santhoshkumar360/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://github.com/santhosh-kumar-0">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+<a href="https://www.linkedin.com/in/santhoshkumar360/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
 <a href="mailto:santhoshradha360@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
 
-<a href="https://github.com/santhosh-kumar-0" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://santhosh-kumar-0.github.io/MY-PORTFOLIO/" target="_blank">
-<img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+<a href="https://santhosh-kumar-0.github.io/MY-PORTFOLIO/">
+<img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
 </a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=santhosh-kumar-0&label=PROFILE%20VIEWS&style=for-the-badge&color=0A66C2"/>
+<img src="https://komarev.com/ghpvc/?username=santhosh-kumar-0&label=PROFILE+VIEWS&style=for-the-badge&color=0A66C2" alt="Profile views"/>
 
-<img src="https://img.shields.io/github/followers/santhosh-kumar-0?label=FOLLOWERS&style=for-the-badge&logo=github&color=181717"/>
-
-</div>
-
----
-
-<div align="center">
-
-### 💼 Building Real-World Applications with Clean Code
-
-*"Passionate about developing scalable software using Java, Python, and the MERN Stack while continuously improving problem-solving skills and preparing for Software Engineer opportunities."*
+<img src="https://img.shields.io/github/followers/santhosh-kumar-0?label=FOLLOWERS&style=for-the-badge&logo=github&color=181717" alt="GitHub followers"/>
 
 </div>
 
 ---
 
+## 👨‍💻 About Me
+
+I'm **𝙎𝘼𝙉𝙏𝙃𝙊𝙎𝙃𝙆𝙐𝙈𝘼𝙍 𝙍**, a **B.Sc Computer Science** student and aspiring **Software Developer** from **Coimbatore, Tamil Nadu, India**.
+
+I enjoy building **efficient, scalable, and user-focused applications** using **Java, Python, and the MERN Stack**.
+
+My focus is on writing **clean code**, solving practical problems, and turning ideas into working software.
+
+### ⚡ Current Mission
+
+```text
+LEARN → BUILD → SOLVE → IMPROVE → DEPLOY
+```
+
+* ☕ Strengthening **Core & Intermediate Java**
+* 🌐 Building **Full Stack Applications**
+* 🧠 Improving **Problem Solving & DSA**
+* 💾 Practicing **SQL & Database Concepts**
+* ☁️ Exploring **Cloud Computing**
+* 🎯 Preparing for **Software Engineer Opportunities**
+
+---
+
+## 🧭 Developer Snapshot
+
 <div align="center">
 
-| 💼 Role | 🎓 Education | 📍 Location | 🎯 Goal |
-|:-------:|:------------:|:----------:|:-------:|
+|       💼 Role      |      🎓 Education     |       📍 Location      |      🎯 Goal      |
+| :----------------: | :-------------------: | :--------------------: | :---------------: |
 | Software Developer | B.Sc Computer Science | Coimbatore, Tamil Nadu | Software Engineer |
 
 </div>
 
 ---
-# 👨‍💻 About Me
 
-I'm **𝙎𝘼𝙉𝙏𝙃𝙊𝙎𝙃𝙆𝙐𝙈𝘼𝙍 𝙍**, a **B.Sc Computer Science** student and an aspiring **Software Developer** from **Coimbatore, Tamil Nadu, India**.
+# 🛠️ Technology Stack
 
-I enjoy building efficient, scalable, and user-focused software applications using **Java, Python, and the MERN Stack**. I am passionate about solving real-world problems through clean, maintainable code while continuously improving my technical knowledge.
+### 👨‍💻 Programming Languages
 
-My current focus is strengthening my **Java development**, **Full Stack Development**, and **Problem Solving** skills by building practical projects and exploring modern software development practices.
+<p>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
+</p>
 
-I believe in **continuous learning**, **consistency**, and **hands-on experience** to become a better software engineer every day.
+### 🎨 Frontend Development
 
----
+<p>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+</p>
 
-## 🚀 Professional Summary
+### ⚙️ Backend Development
 
-- 💼 Aspiring Software Developer
-- ☕ Java Developer
-- 🌐 MERN Stack Developer
-- 🐍 Python Programmer
-- 💾 SQL & Database Enthusiast
-- 🧠 Problem Solver
-- 📚 Continuous Learner
-- 🚀 Building Real-World Projects
-- 🎯 Preparing for Software Engineer Roles in Top MNCs
+<p>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
+</p>
 
----
+### 🗄️ Databases
 
-## ⚡ Quick Information
+<p>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+</p>
 
-| Category | Details |
-|-----------|---------|
-| 👤 Name | **𝙎𝘼𝙉𝙏𝙃𝙊𝙎𝙃𝙆𝙐𝙈𝘼𝙍 𝙍** |
-| 🎓 Education | B.Sc Computer Science |
-| 💼 Role | Software Developer |
-| 📍 Location | Coimbatore, Tamil Nadu, India |
-| 💻 Primary Skills | Java • Python • MERN Stack |
-| 🌱 Currently Learning | Intermediate Java • Cloud Computing |
-| 🧠 Interested In | Full Stack Development • Backend Development |
-| 🎯 Career Goal | Software Engineer at a Top MNC |
+### 🛠️ Tools & Platforms
 
----
-
-## 💡 Career Objective
-
-To begin my career as a **Software Engineer** in a growth-oriented organization where I can contribute to meaningful projects, strengthen my software development skills, and continuously learn modern technologies while delivering high-quality solutions.
-
----
-# 💻 Technology Stack
-
-> **Technologies, frameworks, databases, and tools I use to build modern software applications.**
-
----
-
-## 👨‍💻 Programming Languages
-
-<p align="left">
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<p>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
+<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva"/>
 </p>
 
 ---
 
-## 🎨 Frontend Development
+# 🚀 What I Build
 
-<p align="left">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-</p>
+<div align="center">
 
----
+|          Area          | Focus                                                  |
+| :--------------------: | :----------------------------------------------------- |
+| ☕ **Java Development** | Core Java • OOP • Collections • JDBC                   |
+|    🌐 **Full Stack**   | React • Node.js • Express • MongoDB                    |
+|      🐍 **Python**     | Application Development • Automation • Problem Solving |
+|     💾 **Database**    | SQL • MySQL • MongoDB                                  |
+| 🧠 **Problem Solving** | DSA • Coding Challenges • Logical Thinking             |
+|      ☁️ **Cloud**      | Fundamentals • Deployment Concepts                     |
 
-## ⚙️ Backend Development
-
-<p align="left">
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-</p>
+</div>
 
 ---
 
-## 🗄️ Databases
-
-<p align="left">
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-</p>
-
----
-
-## 🛠️ Tools & Platforms
-
-<p align="left">
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
-</p>
-
----
-
-## 🚀 Full Stack
-
-<p align="left">
-<img src="https://img.shields.io/badge/MERN%20Stack-3C873A?style=for-the-badge&logo=mongodb&logoColor=white"/>
-</p>
-
----
-
-## 🌱 Currently Exploring
-
-<p align="left">
-<img src="https://img.shields.io/badge/Intermediate%20Java-555555?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Cloud%20Computing-555555?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Problem%20Solving-555555?style=for-the-badge"/>
-</p>
-
----
 # 📊 GitHub Analytics
 
-> **A quick overview of my GitHub journey, coding consistency, and programming activity.**
-
----
-
 <div align="center">
 
-<img width="70%" src="https://streak-stats.demolab.com?user=santhosh-kumar-0&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=santhosh-kumar-0&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&theme=github_dark" alt="GitHub Statistics"/>
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=santhosh-kumar-0&layout=compact&hide_border=true&langs_count=8&theme=github_dark" alt="Top Languages"/>
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=santhosh-kumar-0&theme=github-dark-blue&hide_border=true" alt="GitHub Streak"/>
 
 </div>
 
 ---
 
+# 📈 Contribution Activity
+
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=santhosh-kumar-0&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=santhosh-kumar-0&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true" alt="GitHub Contribution Activity Graph"/>
 
 </div>
 
 ---
 
+# 🐍 Contribution Snake
+
 <div align="center">
 
-### 💡 Developer Philosophy
-
-*"Consistency in learning and building projects is the foundation of becoming a better software engineer."*
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Animated GitHub contribution snake"/>
 
 </div>
 
+> **Note:** The snake animation requires the `snk` GitHub Action to be configured in the repository.
 
 ---
+
 # 📚 Currently Learning
 
 <div align="center">
 
-| 🚀 Learning | 📖 Description |
-|:-----------:|:--------------|
-| ☕ **Intermediate Java** | Strengthening Core Java, OOP concepts, Collections, and JDBC. |
-| ☁️ **Cloud Computing** | Learning cloud fundamentals and deployment concepts. |
-| 🧠 **Problem Solving** | Practicing coding challenges and improving logical thinking. |
-| 📚 **Continuous Learning** | Building real-world projects and exploring modern technologies. |
+|          🚀 Learning          | 📖 Focus                               |
+| :---------------------------: | :------------------------------------- |
+|    ☕ **Intermediate Java**    | Core Java, OOP, Collections, JDBC      |
+|     ☁️ **Cloud Computing**    | Fundamentals and deployment concepts   |
+|     🧠 **Problem Solving**    | Coding challenges and logical thinking |
+| 🌐 **Full Stack Development** | React, Node.js, Express and MongoDB    |
 
 </div>
 
 ---
 
-# 🎯 Current Focus
+# 🎯 2026 Goals
+
+```text
+[████████████████████]  Java Development
+[████████████████░░░░]  Full Stack Development
+[███████████████░░░░░]  DSA & Problem Solving
+[███████████░░░░░░░░░]  Cloud Computing
+[████████████████░░░░]  Real-World Projects
+[██████████░░░░░░░░░░]  Open Source Contributions
+```
+
+### 🚀 My Focus
+
+* 🎯 Crack a **Software Engineer** role in a top MNC
+* ☕ Build strong **Java Development** skills
+* 🌐 Build high-quality **Full Stack Projects**
+* 🧠 Improve **DSA & Problem Solving**
+* ☁️ Learn **Cloud Computing**
+* 🌍 Contribute to **Open Source**
+
+---
+
+# 💡 Developer Philosophy
 
 <div align="center">
 
-🟢 **Cracking Top MNC Placements**
+### `BUILD. LEARN. SOLVE. REPEAT.`
 
-🟢 **Building Real-World Java & MERN Projects**
-
-🟢 **Improving Problem Solving Skills**
-
-🟢 **Writing Clean & Maintainable Code**
+> **"Consistent learning, clean code, and solving real-world problems are the foundation of becoming a better software engineer."**
 
 </div>
 
@@ -241,26 +225,22 @@ To begin my career as a **Software Engineer** in a growth-oriented organization 
 <div align="center">
 
 <a href="mailto:santhoshradha360@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
 
 <a href="https://www.linkedin.com/in/santhoshkumar360/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
 <a href="https://github.com/santhosh-kumar-0">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
 <a href="https://santhosh-kumar-0.github.io/MY-PORTFOLIO/">
-<img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
 </a>
 
-</div>
-
----
-
-<div align="center">
+<br><br>
 
 📍 **Coimbatore, Tamil Nadu, India**
 
@@ -270,61 +250,16 @@ To begin my career as a **Software Engineer** in a growth-oriented organization 
 
 ---
 
-# 🎯 2026 Goals
-
-- ✅ Master Intermediate Java
-- ✅ Build High-Quality Full Stack Projects
-- ✅ Improve Problem Solving & DSA
-- ✅ Learn Cloud Computing
-- ✅ Crack a Software Engineer Role in a Top MNC
-- ✅ Contribute to Open Source Projects
-
----
-
-# 💡 Developer Philosophy
-
-> **"I believe that consistent learning, clean code, and solving real-world problems are the foundation of becoming a successful software engineer."**
-
----
-
-# 🙌 Thanks for Visiting
-
 <div align="center">
 
-⭐ Thank you for visiting my GitHub profile.
+## ⭐ Thanks for Visiting
 
-If you like my work, feel free to explore my repositories and connect with me.
+### 𝙎𝘼𝙉𝙏𝙃𝙊𝙎𝙃𝙆𝙐𝙈𝘼𝙍 𝙍
 
-</div>
-
----
-
-<div align="center">
-
-## 𝙎𝘼𝙉𝙏𝙃𝙊𝙎𝙃𝙆𝙐𝙈𝘼𝙍 𝙍
-
-**Software Developer • Java Developer • MERN Stack Developer**
+`Software Developer • Java Developer • MERN Stack Developer`
 
 <br>
 
-<a href="mailto:santhoshradha360@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/santhoshkumar360/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/santhosh-kumar-0">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://santhosh-kumar-0.github.io/MY-PORTFOLIO/">
-<img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=santhosh-kumar-0&label=Thanks%20for%20Visiting&style=for-the-badge&color=0A66C2"/>
+<img src="https://komarev.com/ghpvc/?username=santhosh-kumar-0&label=THANKS+FOR+VISITING&style=for-the-badge&color=0A66C2" alt="Thanks for visiting"/>
 
 </div>
