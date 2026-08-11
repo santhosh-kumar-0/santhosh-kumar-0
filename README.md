@@ -48,18 +48,13 @@
 
 I'm **SANTHOSHKUMAR R**, a **B.Sc Computer Science** student and aspiring **Software Developer** from **Coimbatore, Tamil Nadu, India**.
 
-I enjoy building efficient, scalable, and user-focused applications that solve practical problems.
+I enjoy building practical software applications that solve real-world problems using modern programming technologies.
 
-My development journey currently focuses on:
+My current development journey focuses on **Java Development, Full Stack Development, Python, SQL, DSA, and Cloud Computing**.
 
-- ☕ **Java Development**
-- 🌐 **Full Stack Development**
-- 🐍 **Python Programming**
-- 💾 **SQL & Databases**
-- 🧠 **DSA & Problem Solving**
-- ☁️ **Cloud Computing**
+I believe that becoming a strong software engineer comes from combining:
 
-I believe that becoming a strong software engineer comes from combining **technical knowledge, problem solving, hands-on development, and continuous learning**.
+**Technical Knowledge + Problem Solving + Real Projects + Continuous Learning**
 
 ---
 
@@ -69,7 +64,7 @@ I believe that becoming a strong software engineer comes from combining **techni
 
 | 💼 ROLE | 🎓 EDUCATION | 📍 LOCATION |
 |:---:|:---:|:---:|
-| Software Developer | B.Sc Computer Science | Coimbatore, Tamil Nadu |
+| **Software Developer** | **B.Sc Computer Science** | **Coimbatore, Tamil Nadu** |
 
 <br>
 
@@ -85,14 +80,14 @@ I believe that becoming a strong software engineer comes from combining **techni
 
 <div align="center">
 
-| Focus Area | What I'm Working On |
+| Focus Area | Current Direction |
 |:---|:---|
-| ☕ **Java** | Core Java • OOP • Collections • JDBC |
-| 🌐 **Full Stack** | React • Node.js • Express • MongoDB |
+| ☕ **Java Development** | Core Java • OOP • Collections • JDBC |
+| 🌐 **Full Stack Development** | React • Node.js • Express • MongoDB |
 | 🧠 **Problem Solving** | DSA • Logical Thinking • Coding Challenges |
-| 💾 **Database** | SQL • MySQL • MongoDB |
-| ☁️ **Cloud** | Cloud Fundamentals • Deployment |
-| 🚀 **Development** | Real-World Applications |
+| 💾 **Database Development** | SQL • MySQL • MongoDB |
+| ☁️ **Cloud Computing** | Fundamentals • Deployment Concepts |
+| 🚀 **Application Development** | Real-World Software Applications |
 
 </div>
 
@@ -112,25 +107,25 @@ I believe that becoming a strong software engineer comes from combining **techni
 
 <br><br>
 
-## 🎨 Frontend
+## 🎨 Frontend Development
 
 <img src="https://skillicons.dev/icons?i=html,css,react" height="52" alt="Frontend Technologies"/>
 
 <br><br>
 
-## ⚙️ Backend
+## ⚙️ Backend Development
 
 <img src="https://skillicons.dev/icons?i=nodejs,express" height="52" alt="Backend Technologies"/>
 
 <br><br>
 
-## 🗄️ Database
+## 🗄️ Databases
 
 <img src="https://skillicons.dev/icons?i=mongodb,mysql" height="52" alt="Database Technologies"/>
 
 <br><br>
 
-## 🛠️ Tools
+## 🛠️ Tools & Platforms
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" height="52" alt="Development Tools"/>
 
@@ -144,7 +139,7 @@ I believe that becoming a strong software engineer comes from combining **techni
 
 | 💻 Area | 🔧 Technologies | 🎯 Focus |
 |:---:|:---|:---|
-| ☕ **Java Development** | Java • OOP • Collections • JDBC | Application & Backend Development |
+| ☕ **Java Development** | Java • OOP • Collections • JDBC | Backend & Application Development |
 | 🌐 **Frontend** | HTML • CSS • JavaScript • React | Modern UI Development |
 | ⚙️ **Backend** | Node.js • Express | REST API Development |
 | 🐍 **Python** | Python • Flask • PyQt | Applications & Automation |
@@ -168,9 +163,13 @@ I believe that becoming a strong software engineer comes from combining **techni
 
 </div>
 
-### Current DSA Practice
+<br>
+
+<div align="center">
 
 `Arrays` • `Strings` • `Searching` • `Sorting` • `Number Problems` • `Recursion`
+
+</div>
 
 ---
 
@@ -178,35 +177,15 @@ I believe that becoming a strong software engineer comes from combining **techni
 
 <div align="center">
 
-### 💻 GitHub Statistics
+### 🔥 Coding Streak
 
-<a href="https://github.com/santhosh-kumar-0">
-
-<img src="https://github-readme-stats.vercel.app/api?username=santhosh-kumar-0&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&theme=github_dark" width="48%" alt="GitHub Statistics"/>
-
-</a>
-
-<a href="https://github.com/santhosh-kumar-0">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=santhosh-kumar-0&layout=compact&langs_count=6&hide_border=true&theme=github_dark" width="40%" alt="Top Languages"/>
-
-</a>
+<img src="https://streak-stats.demolab.com?user=santhosh-kumar-0&theme=github-dark-blue&hide_border=true" width="700" alt="GitHub Coding Streak"/>
 
 <br><br>
 
-### 🔥 Coding Streak
+### 📈 Contribution Activity
 
-<img src="https://streak-stats.demolab.com?user=santhosh-kumar-0&theme=github-dark-blue&hide_border=true" width="65%" alt="GitHub Streak"/>
-
-</div>
-
----
-
-# 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=santhosh-kumar-0&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true&custom_title=GitHub%20Contribution%20Activity" width="96%" alt="GitHub Contribution Activity"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=santhosh-kumar-0&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true&custom_title=GitHub%20Contribution%20Activity" width="95%" alt="GitHub Contribution Activity"/>
 
 </div>
 
@@ -234,31 +213,45 @@ I believe that becoming a strong software engineer comes from combining **techni
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=750&lines=Learning+Fundamentals;Building+Projects;Improving+Problem+Solving;Learning+Java;Building+Full+Stack+Applications;Preparing+for+Software+Engineering" alt="Developer Growth"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=750&lines=Learning+%E2%86%92+Building+%E2%86%92+Improving;Growing+One+Step+At+A+Time" alt="Developer Growth Animation"/>
 
-</div>
+<br><br>
 
 ### 🌱 2024
 
 **Programming Fundamentals**
 
+<br><br>
+
 ↓
+
+<br><br>
 
 ### 🚀 2025
 
-**Python** • **Web Development** • **SQL** • **Project Development**
+**Python** &nbsp;•&nbsp; **Web Development** &nbsp;•&nbsp; **SQL** &nbsp;•&nbsp; **Project Development**
+
+<br><br>
 
 ↓
+
+<br><br>
 
 ### ☕ 2026
 
-**Java** • **MERN Stack** • **DSA** • **Cloud Computing**
+**Java** &nbsp;•&nbsp; **MERN Stack** &nbsp;•&nbsp; **DSA** &nbsp;•&nbsp; **Cloud Computing**
+
+<br><br>
 
 ↓
 
-### 🎯 Next
+<br><br>
 
-**Build → Deploy → Contribute → Grow**
+### 🎯 NEXT
+
+**Build** &nbsp;→&nbsp; **Deploy** &nbsp;→&nbsp; **Contribute** &nbsp;→&nbsp; **Grow**
+
+</div>
 
 ---
 
@@ -268,11 +261,7 @@ I believe that becoming a strong software engineer comes from combining **techni
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2600&pause=800&color=58A6FF&center=true&vCenter=true&width=800&lines=MASTER+JAVA;BUILD+FULL+STACK+PROJECTS;IMPROVE+DSA;LEARN+CLOUD;BUILD+PRODUCTION-READY+APPLICATIONS;CRACK+SOFTWARE+ENGINEER+PLACEMENT" alt="2026 Mission"/>
 
-</div>
-
-<br>
-
-<div align="center">
+<br><br>
 
 | 🎯 Goal | Priority |
 |:---|:---:|
@@ -329,11 +318,11 @@ I believe that becoming a strong software engineer comes from combining **techni
 
 <div align="center">
 
-> **"Build things that solve problems."**
+> ### **"Build things that solve problems."**
 
-> **"Learn from every bug."**
+> ### **"Learn from every bug."**
 
-> **"Improve with every project."**
+> ### **"Improve with every project."**
 
 <br>
 
