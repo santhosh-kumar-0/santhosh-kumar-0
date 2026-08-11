@@ -2,74 +2,109 @@
 
 # 𝙎𝘼𝙉𝙏𝙃𝙊𝙎𝙃𝙆𝙐𝙈𝘼𝙍 𝙍
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=25&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=850&lines=Software+Developer;Java+Developer;MERN+Stack+Developer;Python+Programmer;Problem+Solver;Building+Real-World+Applications" alt="Typing Animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=850&lines=Software+Developer;Java+Developer;MERN+Stack+Developer;Python+Programmer;Problem+Solver;Building+Real-World+Applications" alt="Typing Animation"/>
 
 <br>
 
-**B.Sc Computer Science Student** • **Software Developer** • **Coimbatore, Tamil Nadu**
+### `Java` • `Python` • `JavaScript` • `React` • `Node.js` • `MongoDB` • `SQL`
 
 <br>
 
 <a href="https://github.com/santhosh-kumar-0">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
-&nbsp;
+
 <a href="https://www.linkedin.com/in/santhoshkumar360/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-&nbsp;
+
 <a href="mailto:santhoshradha360@gmail.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
-&nbsp;
+
 <a href="https://santhosh-kumar-0.github.io/MY-PORTFOLIO/">
 <img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
 </a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=santhosh-kumar-0&label=PROFILE+VIEWS&style=flat-square&color=58A6FF" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=santhosh-kumar-0&label=PROFILE+VIEWS&style=for-the-badge&color=58A6FF" alt="Profile Views"/>
+
+<img src="https://img.shields.io/github/followers/santhosh-kumar-0?label=FOLLOWERS&style=for-the-badge&logo=github&color=181717" alt="Followers"/>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+<div align="center">
+
+### ⚡ `BUILD • LEARN • SOLVE • IMPROVE`
+
+</div>
+
+---
+
+# 👨‍💻 About Me
 
 I'm **SANTHOSHKUMAR R**, a **B.Sc Computer Science** student and aspiring **Software Developer** from **Coimbatore, Tamil Nadu, India**.
 
-I enjoy building practical applications that solve real-world problems using **Java, Python, JavaScript, React, Node.js, SQL, and MongoDB**.
+I enjoy building efficient, scalable, and user-focused applications that solve practical problems.
 
-My current focus is on strengthening my **Java development**, **Full Stack Development**, **DSA**, **SQL**, and **Cloud Computing** skills while continuously building real-world projects.
+My development journey currently focuses on:
 
-> **Learn → Build → Solve → Improve**
+- ☕ **Java Development**
+- 🌐 **Full Stack Development**
+- 🐍 **Python Programming**
+- 💾 **SQL & Databases**
+- 🧠 **DSA & Problem Solving**
+- ☁️ **Cloud Computing**
+
+I believe that becoming a strong software engineer comes from combining **technical knowledge, problem solving, hands-on development, and continuous learning**.
 
 ---
 
-## ⚡ What I'm Working On
+# ⚡ Developer Dashboard
 
 <div align="center">
 
-| Focus | Current Direction |
-|:---|:---|
-| ☕ **Java** | Core Java • OOP • Collections • JDBC |
-| 🌐 **Full Stack** | React • Node.js • Express • MongoDB |
-| 🧠 **DSA** | Problem Solving • Coding Challenges |
-| 💾 **Database** | SQL • MySQL • MongoDB |
-| ☁️ **Cloud** | Cloud Fundamentals • Deployment |
-| 🚀 **Projects** | Real-World Software Applications |
+| 💼 ROLE | 🎓 EDUCATION | 📍 LOCATION |
+|:---:|:---:|:---:|
+| Software Developer | B.Sc Computer Science | Coimbatore, Tamil Nadu |
+
+<br>
+
+| ☕ PRIMARY STACK | 🌐 DEVELOPMENT | 🎯 CAREER GOAL |
+|:---:|:---:|:---:|
+| Java • Python • MERN | Full Stack • Backend | Software Engineer |
 
 </div>
 
 ---
 
-# 🛠️ Tech Stack
+# 🚀 Current Focus
 
 <div align="center">
 
-### Languages
+| Focus Area | What I'm Working On |
+|:---|:---|
+| ☕ **Java** | Core Java • OOP • Collections • JDBC |
+| 🌐 **Full Stack** | React • Node.js • Express • MongoDB |
+| 🧠 **Problem Solving** | DSA • Logical Thinking • Coding Challenges |
+| 💾 **Database** | SQL • MySQL • MongoDB |
+| ☁️ **Cloud** | Cloud Fundamentals • Deployment |
+| 🚀 **Development** | Real-World Applications |
 
-<img src="https://skillicons.dev/icons?i=java,python,javascript" height="50" alt="Languages"/>
+</div>
+
+---
+
+# 🛠️ Technology Stack
+
+<div align="center">
+
+## 👨‍💻 Programming Languages
+
+<img src="https://skillicons.dev/icons?i=java,python,javascript" height="52" alt="Programming Languages"/>
 
 <br><br>
 
@@ -77,141 +112,47 @@ My current focus is on strengthening my **Java development**, **Full Stack Devel
 
 <br><br>
 
-### Frontend
+## 🎨 Frontend
 
-<img src="https://skillicons.dev/icons?i=html,css,react" height="50" alt="Frontend"/>
-
-<br><br>
-
-### Backend
-
-<img src="https://skillicons.dev/icons?i=nodejs,express" height="50" alt="Backend"/>
+<img src="https://skillicons.dev/icons?i=html,css,react" height="52" alt="Frontend Technologies"/>
 
 <br><br>
 
-### Database
+## ⚙️ Backend
 
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" height="50" alt="Database"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express" height="52" alt="Backend Technologies"/>
 
 <br><br>
 
-### Tools
+## 🗄️ Database
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux" height="50" alt="Tools"/>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" height="52" alt="Database Technologies"/>
+
+<br><br>
+
+## 🛠️ Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux" height="52" alt="Development Tools"/>
 
 </div>
 
 ---
 
-# 🚀 Featured Projects
+# 🧩 Development Areas
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<div align="center">
 
-### 🍔 Smart Canteen Pre-Order System
+| 💻 Area | 🔧 Technologies | 🎯 Focus |
+|:---:|:---|:---|
+| ☕ **Java Development** | Java • OOP • Collections • JDBC | Application & Backend Development |
+| 🌐 **Frontend** | HTML • CSS • JavaScript • React | Modern UI Development |
+| ⚙️ **Backend** | Node.js • Express | REST API Development |
+| 🐍 **Python** | Python • Flask • PyQt | Applications & Automation |
+| 💾 **Database** | SQL • MySQL • MongoDB | Data Management |
+| 🧠 **Problem Solving** | DSA • Coding Problems | Logical Thinking |
+| ☁️ **Cloud** | Cloud Fundamentals | Deployment Concepts |
 
-**React • Node.js • Express • MongoDB**
-
-A full-stack food ordering application for digital canteen ordering.
-
-**Features**
-- Food menu
-- Add to cart
-- Quantity management
-- Checkout
-- Order history
-- User authentication
-- Order management
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🤖 HR Resume Intelligence System
-
-**Python • Flask • SQLite**
-
-A software application focused on resume analysis and HR workflow automation.
-
-**Focus**
-- Resume processing
-- Data analysis
-- HR workflow
-- Backend development
-- Database integration
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 💬 Chat Application
-
-**Python • PyQt • SQLite**
-
-A desktop communication application with a graphical interface and database integration.
-
-**Focus**
-- User interaction
-- Chat functionality
-- Database management
-- Desktop application development
-
-</td>
-
-<td width="50%" valign="top">
-
-### 📊 Student Performance Analytics
-
-**Python • Machine Learning**
-
-A data-driven application for analysing student performance and generating predictions.
-
-**Focus**
-- Data processing
-- Machine learning
-- Prediction
-- Performance analysis
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 💊 Pharmacy Billing System
-
-**Python • Tkinter • CSV**
-
-A desktop billing application for medicine management and invoice generation.
-
-**Focus**
-- Medicine management
-- Billing
-- Invoice generation
-- CSV data handling
-
-</td>
-
-<td width="50%" valign="top">
-
-### 📋 Task Manager
-
-**Python • PyQt • SQLite**
-
-A desktop productivity application for creating and managing tasks.
-
-**Focus**
-- Task management
-- GUI development
-- Database operations
-- Productivity
-
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
@@ -219,7 +160,7 @@ A desktop productivity application for creating and managing tasks.
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2400&pause=700&color=58A6FF&center=true&vCenter=true&width=700&lines=Understand+the+Problem;Break+It+Into+Steps;Find+the+Logic;Write+the+Code;Test+the+Solution;Optimize+the+Approach" alt="Problem Solving"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2400&pause=700&color=58A6FF&center=true&vCenter=true&width=750&lines=Understand+the+Problem;Break+It+Into+Steps;Find+the+Logic;Write+the+Solution;Test+the+Output;Optimize+the+Code" alt="Problem Solving Animation"/>
 
 <br><br>
 
@@ -237,6 +178,8 @@ A desktop productivity application for creating and managing tasks.
 
 <div align="center">
 
+### 💻 GitHub Statistics
+
 <a href="https://github.com/santhosh-kumar-0">
 
 <img src="https://github-readme-stats.vercel.app/api?username=santhosh-kumar-0&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&theme=github_dark" width="48%" alt="GitHub Statistics"/>
@@ -245,13 +188,15 @@ A desktop productivity application for creating and managing tasks.
 
 <a href="https://github.com/santhosh-kumar-0">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=santhosh-kumar-0&layout=compact&langs_count=8&hide_border=true&theme=github_dark" width="40%" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=santhosh-kumar-0&layout=compact&langs_count=6&hide_border=true&theme=github_dark" width="40%" alt="Top Languages"/>
 
 </a>
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=santhosh-kumar-0&theme=github-dark-blue&hide_border=true" width="70%" alt="GitHub Streak"/>
+### 🔥 Coding Streak
+
+<img src="https://streak-stats.demolab.com?user=santhosh-kumar-0&theme=github-dark-blue&hide_border=true" width="65%" alt="GitHub Streak"/>
 
 </div>
 
@@ -271,7 +216,7 @@ A desktop productivity application for creating and managing tasks.
 
 <div align="center">
 
-| Technology | Learning |
+| 📚 Technology | 🎯 Current Learning |
 |:---:|:---|
 | ☕ **Java** | OOP • Collections • Exception Handling • JDBC |
 | 🧠 **DSA** | Arrays • Strings • Searching • Sorting |
@@ -285,11 +230,43 @@ A desktop productivity application for creating and managing tasks.
 
 ---
 
+# 🧭 Developer Growth
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=750&lines=Learning+Fundamentals;Building+Projects;Improving+Problem+Solving;Learning+Java;Building+Full+Stack+Applications;Preparing+for+Software+Engineering" alt="Developer Growth"/>
+
+</div>
+
+### 🌱 2024
+
+**Programming Fundamentals**
+
+↓
+
+### 🚀 2025
+
+**Python** • **Web Development** • **SQL** • **Project Development**
+
+↓
+
+### ☕ 2026
+
+**Java** • **MERN Stack** • **DSA** • **Cloud Computing**
+
+↓
+
+### 🎯 Next
+
+**Build → Deploy → Contribute → Grow**
+
+---
+
 # 🎯 2026 Mission
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2600&pause=800&color=58A6FF&center=true&vCenter=true&width=750&lines=MASTER+JAVA;BUILD+FULL+STACK+PROJECTS;IMPROVE+DSA;LEARN+CLOUD;BUILD+PRODUCTION-READY+APPLICATIONS;CRACK+SOFTWARE+ENGINEER+PLACEMENT" alt="2026 Mission"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2600&pause=800&color=58A6FF&center=true&vCenter=true&width=800&lines=MASTER+JAVA;BUILD+FULL+STACK+PROJECTS;IMPROVE+DSA;LEARN+CLOUD;BUILD+PRODUCTION-READY+APPLICATIONS;CRACK+SOFTWARE+ENGINEER+PLACEMENT" alt="2026 Mission"/>
 
 </div>
 
@@ -297,56 +274,52 @@ A desktop productivity application for creating and managing tasks.
 
 <div align="center">
 
-| 🎯 Goal | 🔥 Priority |
+| 🎯 Goal | Priority |
 |:---|:---:|
-| ☕ Master Java Development | High |
-| 🧠 Improve DSA & Problem Solving | High |
-| 🌐 Strengthen Full Stack Skills | High |
-| 💾 Improve SQL & Database Knowledge | High |
-| ☁️ Learn Cloud Computing | Medium |
-| 🚀 Build Real-World Projects | High |
-| 🌍 Contribute to Open Source | Medium |
-| 💼 Crack Software Engineer Placement | **TOP GOAL** |
+| ☕ Master Java Development | 🔥 High |
+| 🧠 Improve DSA & Problem Solving | 🔥 High |
+| 🌐 Strengthen Full Stack Development | 🔥 High |
+| 💾 Improve SQL & Database Skills | 🔥 High |
+| ☁️ Learn Cloud Computing | 🟡 Medium |
+| 🚀 Build Real-World Applications | 🔥 High |
+| 🌍 Contribute to Open Source | 🟡 Medium |
+| 💼 Crack Software Engineer Placement | ⭐ **TOP GOAL** |
 
 </div>
 
 ---
 
-# 🌱 Developer Growth
+# 🔄 Development Cycle
 
 <div align="center">
 
-### 2024
-**Programming Fundamentals**
-
-↓
-
-### 2025
-**Python** • **Web Development** • **SQL** • **Project Development**
-
-↓
-
-### 2026
-**Java** • **MERN Stack** • **DSA** • **Cloud Computing**
-
-↓
-
-### NEXT
-**Build → Deploy → Contribute → Grow**
-
-</div>
-
----
-
-# 🔥 Development Cycle
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2200&pause=500&color=58A6FF&center=true&vCenter=true&width=750&lines=IDEA;ANALYZE;DESIGN;BUILD;TEST;DEBUG;DEPLOY;IMPROVE" alt="Development Cycle"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=1800&pause=500&color=58A6FF&center=true&vCenter=true&width=800&lines=IDEA;ANALYZE;DESIGN;BUILD;TEST;DEBUG;DEPLOY;IMPROVE" alt="Development Cycle"/>
 
 <br><br>
 
-`IDEA` → `ANALYZE` → `DESIGN` → `BUILD` → `TEST` → `DEBUG` → `DEPLOY` → `IMPROVE`
+### `IDEA → ANALYZE → DESIGN → BUILD → TEST → DEBUG → DEPLOY → IMPROVE`
+
+</div>
+
+---
+
+# 🔥 Developer Mindset
+
+<div align="center">
+
+### `LEARN SOMETHING.`
+
+### `BUILD SOMETHING.`
+
+### `BREAK SOMETHING.`
+
+### `FIX SOMETHING.`
+
+### `IMPROVE SOMETHING.`
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=700&lines=Clean+Code;Consistent+Learning;Real-World+Problems;Continuous+Improvement" alt="Developer Mindset"/>
 
 </div>
 
@@ -356,15 +329,15 @@ A desktop productivity application for creating and managing tasks.
 
 <div align="center">
 
-### `BUILD THINGS THAT SOLVE PROBLEMS.`
+> **"Build things that solve problems."**
 
-### `LEARN FROM EVERY BUG.`
+> **"Learn from every bug."**
 
-### `IMPROVE WITH EVERY PROJECT.`
+> **"Improve with every project."**
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=700&lines=Clean+Code;Consistent+Learning;Real-World+Problems;Continuous+Improvement" alt="Developer Philosophy"/>
+### `CODE • LEARN • BUILD • GROW`
 
 </div>
 
@@ -402,17 +375,17 @@ A desktop productivity application for creating and managing tasks.
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:58A6FF&height=100&section=footer" width="100%" alt="Footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:58A6FF&height=110&section=footer" width="100%" alt="Footer"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=650&lines=Keep+Learning.;Keep+Building.;Keep+Growing.;See+you+in+the+next+commit+%F0%9F%9A%80" alt="Footer Animation"/>
 
 <br><br>
 
-**𝙎𝘼𝙉𝙏𝙃𝙊𝙎𝙃𝙆𝙐𝙈𝘼𝙍 𝙍**
+### 𝙎𝘼𝙉𝙏𝙃𝙊𝙎𝙃𝙆𝙐𝙈𝘼𝙍 𝙍
 
 `Software Developer • Java Developer • MERN Stack Developer`
 
-<br>
+<br><br>
 
 <img src="https://komarev.com/ghpvc/?username=santhosh-kumar-0&label=THANKS+FOR+VISITING&style=for-the-badge&color=58A6FF" alt="Thanks for Visiting"/>
 
