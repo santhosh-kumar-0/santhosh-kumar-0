@@ -348,7 +348,7 @@ I believe that becoming a strong software engineer comes from combining:
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
-<a href="https://santhosh-kumar-0.github.io/MY-PORTFOLIO/">
+<a href="https://santhosh-web-portfolio.netlify.app/">
 <img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
 </a>
 
