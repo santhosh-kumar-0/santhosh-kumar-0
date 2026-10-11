@@ -1,362 +1,259 @@
-<div align="center">
+from pathlib import Path
 
-# 𝙎𝘼𝙉𝙏𝙃𝙊𝙎𝙃𝙆𝙐𝙈𝘼𝙍 𝙍
+readme = r'''<div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=850&lines=Software+Developer;Java+Developer;MERN+Stack+Developer;Python+Programmer;Problem+Solver;Building+Real-World+Applications" alt="Typing Animation"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:161B22,100:58A6FF&height=220&section=header&text=SANTHOSHKUMAR%20R&fontSize=42&fontColor=FFFFFF&fontAlignY=36&desc=Software%20Developer%20%7C%20Java%20%7C%20Full%20Stack&descAlignY=57&descSize=16" width="100%" alt="Animated profile header"/>
 
-<br>
+<a href="https://readme-typing-svg.demolab.com">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2600&pause=800&color=58A6FF&center=true&vCenter=true&width=800&lines=Java+Developer+in+Progress;Full+Stack+Developer;Python+Programmer;DSA+%7C+Problem+Solving;Building+Projects+That+Solve+Problems" alt="Animated typing introduction"/>
+</a>
 
-### `Java` • `Python` • `JavaScript` • `React` • `Node.js` • `MongoDB` • `SQL`
-
-<br>
+<br/>
 
 <a href="https://github.com/santhosh-kumar-0">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
-
 <a href="https://www.linkedin.com/in/santhoshkumar360/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-
 <a href="mailto:santhoshradha360@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
-
 <a href="https://santhosh-kumar-0.github.io/MY-PORTFOLIO/">
-<img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+  <img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
 </a>
 
-<br><br>
+<br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=santhosh-kumar-0&label=PROFILE+VIEWS&style=for-the-badge&color=58A6FF" alt="Profile Views"/>
-
-<img src="https://img.shields.io/github/followers/santhosh-kumar-0?label=FOLLOWERS&style=for-the-badge&logo=github&color=181717" alt="Followers"/>
-
-</div>
-
----
-
-<div align="center">
-
-### ⚡ `BUILD • LEARN • SOLVE • IMPROVE`
+<img src="https://komarev.com/ghpvc/?username=santhosh-kumar-0&label=PROFILE+VIEWS&color=58A6FF&style=for-the-badge" alt="Profile views"/>
+<img src="https://img.shields.io/github/followers/santhosh-kumar-0?label=FOLLOWERS&style=for-the-badge&logo=github&color=181717" alt="GitHub followers"/>
 
 </div>
 
 ---
 
-# 👨‍💻 About Me
+## 👨‍💻 About Me
 
-I'm **SANTHOSHKUMAR R**, a **B.Sc Computer Science** student and aspiring **Software Developer** from **Coimbatore, Tamil Nadu, India**.
+Hi! I'm **Santhoshkumar R**, a **B.Sc. Computer Science student** from **Coimbatore, Tamil Nadu, India**, working toward becoming a software engineer.
 
-I enjoy building practical software applications that solve real-world problems using modern programming technologies.
+- ☕ Strengthening my **Java, object-oriented programming, and DSA** skills.
+- 🌐 Building my knowledge of **full-stack development** with React, Node.js, Express, and MongoDB.
+- 🐍 Using Python for application development and automation.
+- 💾 Practising SQL, database design, and data management.
+- 🚀 Learning by building projects, debugging issues, and improving my code.
 
-My current development journey focuses on **Java Development, Full Stack Development, Python, SQL, DSA, and Cloud Computing**.
-
-I believe that becoming a strong software engineer comes from combining:
-
-**Technical Knowledge + Problem Solving + Real Projects + Continuous Learning**
-
----
-
-# ⚡ Developer Dashboard
-
-<div align="center">
-
-| 💼 ROLE | 🎓 EDUCATION | 📍 LOCATION |
-|:---:|:---:|:---:|
-| **Software Developer** | **B.Sc Computer Science** | **Coimbatore, Tamil Nadu** |
-
-<br>
-
-| ☕ PRIMARY STACK | 🌐 DEVELOPMENT | 🎯 CAREER GOAL |
-|:---:|:---:|:---:|
-| Java • Python • MERN | Full Stack • Backend | Software Engineer |
-
-</div>
+> **My approach:** Learn the concept → Build a solution → Test it → Improve it.
 
 ---
 
-# 🚀 Current Focus
+## ⚡ Developer Snapshot
 
 <div align="center">
 
-| Focus Area | Current Direction |
+| Area | Focus |
 |:---|:---|
-| ☕ **Java Development** | Core Java • OOP • Collections • JDBC |
-| 🌐 **Full Stack Development** | React • Node.js • Express • MongoDB |
-| 🧠 **Problem Solving** | DSA • Logical Thinking • Coding Challenges |
-| 💾 **Database Development** | SQL • MySQL • MongoDB |
-| ☁️ **Cloud Computing** | Fundamentals • Deployment Concepts |
-| 🚀 **Application Development** | Real-World Software Applications |
+| 🎓 Education | B.Sc. Computer Science |
+| ☕ Core programming | Java, Python, JavaScript |
+| 🌐 Web development | HTML, CSS, React, Node.js, Express |
+| 🗄️ Databases | SQL, MySQL, MongoDB |
+| 🧠 Problem solving | DSA, arrays, strings, recursion, searching, sorting |
+| 🎯 Current goal | Prepare for software developer opportunities |
 
 </div>
 
 ---
 
-# 🛠️ Technology Stack
+## 🛠️ Technology Stack
 
 <div align="center">
 
-## 👨‍💻 Programming Languages
+### Languages
+<img src="https://skillicons.dev/icons?i=java,python,javascript" alt="Java, Python, JavaScript" />
 
-<img src="https://skillicons.dev/icons?i=java,python,javascript" height="52" alt="Programming Languages"/>
+### Frontend
+<img src="https://skillicons.dev/icons?i=html,css,react" alt="HTML, CSS, React" />
 
-<br><br>
+### Backend
+<img src="https://skillicons.dev/icons?i=nodejs,express,flask" alt="Node.js, Express, Flask" />
 
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
+### Databases
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite" alt="MySQL, MongoDB, SQLite" />
 
-<br><br>
-
-## 🎨 Frontend Development
-
-<img src="https://skillicons.dev/icons?i=html,css,react" height="52" alt="Frontend Technologies"/>
-
-<br><br>
-
-## ⚙️ Backend Development
-
-<img src="https://skillicons.dev/icons?i=nodejs,express" height="52" alt="Backend Technologies"/>
-
-<br><br>
-
-## 🗄️ Databases
-
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" height="52" alt="Database Technologies"/>
-
-<br><br>
-
-## 🛠️ Tools & Platforms
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux" height="52" alt="Development Tools"/>
+### Tools
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux" alt="Git, GitHub, VS Code, Linux" />
 
 </div>
 
 ---
 
-# 🧩 Development Areas
+## 🎯 What I'm Working On
 
 <div align="center">
 
-| 💻 Area | 🔧 Technologies | 🎯 Focus |
-|:---:|:---|:---|
-| ☕ **Java Development** | Java • OOP • Collections • JDBC | Backend & Application Development |
-| 🌐 **Frontend** | HTML • CSS • JavaScript • React | Modern UI Development |
-| ⚙️ **Backend** | Node.js • Express | REST API Development |
-| 🐍 **Python** | Python • Flask • PyQt | Applications & Automation |
-| 💾 **Database** | SQL • MySQL • MongoDB | Data Management |
-| 🧠 **Problem Solving** | DSA • Coding Problems | Logical Thinking |
-| ☁️ **Cloud** | Cloud Fundamentals | Deployment Concepts |
+| Focus | Topics |
+|:---|:---|
+| ☕ **Java Development** | OOP, arrays, collections, exception handling, JDBC |
+| 🧠 **Data Structures & Algorithms** | Arrays, strings, recursion, stacks, queues, trees, searching, sorting |
+| ⚛️ **Frontend Development** | React components, hooks, routing, responsive UI |
+| ⚙️ **Backend Development** | Node.js, Express, REST APIs, authentication |
+| 💾 **Database Skills** | SQL queries, joins, subqueries, schema design, CRUD |
+| ☁️ **Cloud & Deployment** | Deployment fundamentals and project hosting |
 
 </div>
 
 ---
 
-# 🧠 Problem Solving
+## 🚀 Projects & Practical Experience
+
+I enjoy developing practical applications and improving them step by step. Some of the project areas I've worked on include:
+
+- 🍽️ **Smart Canteen Pre-Order System** — food menu, cart, checkout, and order-management workflow.
+- 💬 **Chat Application** — desktop chat application concepts using Python and a database.
+- 📊 **Student Performance Analytics** — data processing and prediction workflow.
+- 🧾 **Pharmacy Billing Application** — medicine records, billing, and invoice generation.
+- 🤖 **Automation Projects** — exploring workflow automation and repetitive-task reduction.
+- 👥 **Resume Intelligence / HR Workflow** — application concepts for resume processing and HR task support.
+
+> Project status, features, and technology choices may evolve as I continue improving these applications. Visit my repositories for the latest code.
 
 <div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2400&pause=700&color=58A6FF&center=true&vCenter=true&width=750&lines=Understand+the+Problem;Break+It+Into+Steps;Find+the+Logic;Write+the+Solution;Test+the+Output;Optimize+the+Code" alt="Problem Solving Animation"/>
-
-<br><br>
-
-### `THINK → CODE → DEBUG → OPTIMIZE`
-
+  <a href="https://github.com/santhosh-kumar-0?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore%20My%20Repositories-View%20Projects-58A6FF?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories"/>
+  </a>
 </div>
 
-<br>
+---
+
+## 🧠 Problem-Solving Workflow
 
 <div align="center">
 
-`Arrays` • `Strings` • `Searching` • `Sorting` • `Number Problems` • `Recursion`
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=1800&pause=500&color=58A6FF&center=true&vCenter=true&width=760&lines=UNDERSTAND+THE+PROBLEM;BREAK+IT+INTO+SMALL+STEPS;DESIGN+THE+LOGIC;WRITE+AND+TEST+THE+CODE;DEBUG+AND+OPTIMIZE" alt="Animated problem-solving workflow"/>
+
+<br/>
+
+`UNDERSTAND` → `PLAN` → `CODE` → `TEST` → `DEBUG` → `OPTIMIZE`
 
 </div>
 
 ---
 
-# 📊 GitHub Analytics
+## 📊 GitHub Analytics
 
 <div align="center">
 
-### 🔥 Coding Streak
+<a href="https://github.com/santhosh-kumar-0">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=santhosh-kumar-0&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github" alt="GitHub statistics"/>
+</a>
+<a href="https://github.com/santhosh-kumar-0">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santhosh-kumar-0&layout=compact&hide_border=true&theme=github_dark&langs_count=8" alt="Most used languages"/>
+</a>
 
-<img src="https://streak-stats.demolab.com?user=santhosh-kumar-0&theme=github-dark-blue&hide_border=true" width="700" alt="GitHub Coding Streak"/>
+<br/><br/>
 
-<br><br>
+<a href="https://github.com/santhosh-kumar-0">
+  <img width="90%" src="https://streak-stats.demolab.com?user=santhosh-kumar-0&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak"/>
+</a>
 
-### 📈 Contribution Activity
+<br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=santhosh-kumar-0&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true&custom_title=GitHub%20Contribution%20Activity" width="95%" alt="GitHub Contribution Activity"/>
+<a href="https://github.com/santhosh-kumar-0">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=santhosh-kumar-0&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="GitHub contribution activity graph"/>
+</a>
+
+</div>
+
+> **Note:** GitHub statistics and streak images are provided by external services. They may load slowly, be temporarily unavailable, or display cached data. The README content itself does not depend on them.
+
+---
+
+## 🌱 Learning Roadmap
+
+<div align="center">
+
+```text
+PROGRAMMING FUNDAMENTALS
+          ↓
+     CORE JAVA + OOP
+          ↓
+       DSA PRACTICE
+          ↓
+   SQL + DATABASE DESIGN
+          ↓
+ REACT + NODE.JS + EXPRESS
+          ↓
+  FULL-STACK PROJECTS
+          ↓
+ DEPLOYMENT + INTERVIEW PREP
+```
+
+</div>
+
+### Current priorities
+
+- [ ] Practise Java fundamentals and object-oriented programming.
+- [ ] Solve DSA problems consistently.
+- [ ] Strengthen SQL and database concepts.
+- [ ] Build and improve full-stack projects.
+- [ ] Learn API integration, validation, and authentication.
+- [ ] Deploy projects and document them clearly.
+- [ ] Prepare for technical interviews and coding assessments.
+
+---
+
+## 🔄 My Development Cycle
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=1500&pause=400&color=58A6FF&center=true&vCenter=true&width=760&lines=IDEA;ANALYZE;DESIGN;BUILD;TEST;DEBUG;DEPLOY;IMPROVE" alt="Animated development cycle"/>
+
+`IDEA` → `ANALYZE` → `DESIGN` → `BUILD` → `TEST` → `DEBUG` → `DEPLOY` → `IMPROVE`
 
 </div>
 
 ---
 
-# 📚 Currently Learning
-
-<div align="center">
-
-| 📚 Technology | 🎯 Current Learning |
-|:---:|:---|
-| ☕ **Java** | OOP • Collections • Exception Handling • JDBC |
-| 🧠 **DSA** | Arrays • Strings • Searching • Sorting |
-| ⚛️ **React** | Components • Hooks • Routing • API Integration |
-| 🟢 **Node.js** | Express • REST APIs • Backend Development |
-| 🍃 **MongoDB** | CRUD • Schema Design • Integration |
-| 💾 **SQL** | Joins • Subqueries • Aggregation |
-| ☁️ **Cloud** | Fundamentals • Deployment Concepts |
-
-</div>
-
----
-
-# 🧭 Developer Growth
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=750&lines=Learning+%E2%86%92+Building+%E2%86%92+Improving;Growing+One+Step+At+A+Time" alt="Developer Growth Animation"/>
-
-<br><br>
-
-### 🌱 2024
-
-**Programming Fundamentals**
-
-<br><br>
-
-↓
-
-<br><br>
-
-### 🚀 2025
-
-**Python** &nbsp;•&nbsp; **Web Development** &nbsp;•&nbsp; **SQL** &nbsp;•&nbsp; **Project Development**
-
-<br><br>
-
-↓
-
-<br><br>
-
-### ☕ 2026
-
-**Java** &nbsp;•&nbsp; **MERN Stack** &nbsp;•&nbsp; **DSA** &nbsp;•&nbsp; **Cloud Computing**
-
-<br><br>
-
-↓
-
-<br><br>
-
-### 🎯 NEXT
-
-**Build** &nbsp;→&nbsp; **Deploy** &nbsp;→&nbsp; **Contribute** &nbsp;→&nbsp; **Grow**
-
-</div>
-
----
-
-# 🎯 2026 Mission
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2600&pause=800&color=58A6FF&center=true&vCenter=true&width=800&lines=MASTER+JAVA;BUILD+FULL+STACK+PROJECTS;IMPROVE+DSA;LEARN+CLOUD;BUILD+PRODUCTION-READY+APPLICATIONS;CRACK+SOFTWARE+ENGINEER+PLACEMENT" alt="2026 Mission"/>
-
-<br><br>
-
-| 🎯 Goal | Priority |
-|:---|:---:|
-| ☕ Master Java Development | 🔥 High |
-| 🧠 Improve DSA & Problem Solving | 🔥 High |
-| 🌐 Strengthen Full Stack Development | 🔥 High |
-| 💾 Improve SQL & Database Skills | 🔥 High |
-| ☁️ Learn Cloud Computing | 🟡 Medium |
-| 🚀 Build Real-World Applications | 🔥 High |
-| 🌍 Contribute to Open Source | 🟡 Medium |
-| 💼 Crack Software Engineer Placement | ⭐ **TOP GOAL** |
-
-</div>
-
----
-
-# 🔄 Development Cycle
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=1800&pause=500&color=58A6FF&center=true&vCenter=true&width=800&lines=IDEA;ANALYZE;DESIGN;BUILD;TEST;DEBUG;DEPLOY;IMPROVE" alt="Development Cycle"/>
-
-<br><br>
-
-### `IDEA → ANALYZE → DESIGN → BUILD → TEST → DEBUG → DEPLOY → IMPROVE`
-
-</div>
-
----
-
-# 🔥 Developer Mindset
+## 💡 Developer Mindset
 
 <div align="center">
 
 ### `LEARN SOMETHING.`
-
 ### `BUILD SOMETHING.`
-
-### `BREAK SOMETHING.`
-
 ### `FIX SOMETHING.`
-
 ### `IMPROVE SOMETHING.`
 
-<br>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2400&pause=700&color=58A6FF&center=true&vCenter=true&width=680&lines=Write+Readable+Code;Learn+From+Every+Bug;Solve+Real+Problems;Keep+Improving" alt="Animated developer mindset"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=700&lines=Clean+Code;Consistent+Learning;Real-World+Problems;Continuous+Improvement" alt="Developer Mindset"/>
-
-</div>
-
----
-
-# 💡 Developer Philosophy
-
-<div align="center">
-
-> ### **"Build things that solve problems."**
-
-> ### **"Learn from every bug."**
-
-> ### **"Improve with every project."**
-
-<br>
-
-### `CODE • LEARN • BUILD • GROW`
+> **Build things that solve problems. Learn from every bug. Improve with every project.**
 
 </div>
 
 ---
 
-# 📫 Connect With Me
+## 🤝 Let's Connect
 
 <div align="center">
+
+I'm interested in learning from other developers, collaborating on useful projects, and exploring software development opportunities.
 
 <a href="mailto:santhoshradha360@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me"/>
 </a>
-
 <a href="https://www.linkedin.com/in/santhoshkumar360/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
 </a>
-
 <a href="https://github.com/santhosh-kumar-0">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub"/>
+</a>
+<a href="https://santhosh-kumar-0.github.io/MY-PORTFOLIO/">
+  <img src="https://img.shields.io/badge/Portfolio-Visit-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit portfolio"/>
 </a>
 
-<a href="https://santhosh-web-portfolio.netlify.app/">
-<img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
-</a>
-
-<br><br>
+<br/><br/>
 
 📍 **Coimbatore, Tamil Nadu, India**
 
-💼 **Open to Software Developer • Java Developer • Full Stack Developer Opportunities**
+**Open to:** Software Developer · Java Developer · Full Stack Developer opportunities
 
 </div>
 
@@ -364,18 +261,18 @@ I believe that becoming a strong software engineer comes from combining:
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:58A6FF&height=110&section=footer" width="100%" alt="Footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:0D1117&height=120&section=footer" width="100%" alt="Animated footer wave"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=650&lines=Keep+Learning.;Keep+Building.;Keep+Growing.;See+you+in+the+next+commit+%F0%9F%9A%80" alt="Footer Animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2500&pause=700&color=58A6FF&center=true&vCenter=true&width=620&lines=Keep+Learning.;Keep+Building.;Keep+Growing.;See+you+in+the+next+commit+%F0%9F%9A%80" alt="Animated closing message"/>
 
-<br><br>
+<br/><br/>
 
-### 𝙎𝘼𝙉𝙏𝙃𝙊𝙎𝙃𝙆𝙐𝙈𝘼𝙍 𝙍
+**Thanks for visiting my profile!** ⭐
 
-`Software Developer • Java Developer • MERN Stack Developer`
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=santhosh-kumar-0&label=THANKS+FOR+VISITING&style=for-the-badge&color=58A6FF" alt="Thanks for Visiting"/>
+`CODE` • `LEARN` • `BUILD` • `GROW`
 
 </div>
+'''
+out = Path("/mnt/data/README.md")
+out.write_text(readme, encoding="utf-8")
+print(f"Created {out} ({len(readme)} characters, {len(readme.splitlines())} lines)")
