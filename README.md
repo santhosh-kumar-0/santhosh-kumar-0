@@ -2,9 +2,9 @@ from pathlib import Path
 
 readme = r'''<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,35:161B22,100:58A6FF&height=210&section=header&text=𝐒𝐀𝐍𝐓𝐇𝐎𝐒𝐇𝐊𝐔𝐌𝐀𝐑%20𝐑&fontSize=34&fontColor=FFFFFF&fontAlignY=38&desc=SOFTWARE%20DEVELOPER%20%7C%20JAVA%20%7C%20FULL%20STACK&descAlignY=60&descSize=13" width="100%" alt="Santhoshkumar R profile banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:161B22,100:58A6FF&height=190&section=header&text=SAN%20THOSH%20KUMAR%20R&fontSize=34&fontColor=FFFFFF&fontAlignY=38&desc=SOFTWARE%20DEVELOPER%20%7C%20JAVA%20%7C%20FULL%20STACK&descAlignY=60&descSize=13" width="100%" alt="Santhoshkumar R profile banner"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2600&pause=800&color=58A6FF&center=true&vCenter=true&width=760&lines=Java+Developer+in+Progress;Full+Stack+Developer;Python+Programmer;DSA+%7C+Problem+Solving;Build.+Learn.+Debug.+Improve." alt="Animated developer introduction"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=2600&pause=800&color=58A6FF&center=true&vCenter=true&width=760&lines=Java+Developer+in+Progress;Full+Stack+Developer;Python+Programmer;DSA+%7C+Problem+Solving;Build.+Learn.+Debug.+Improve." alt="Animated developer introduction"/>
 
 <br/>
 
@@ -13,66 +13,116 @@ readme = r'''<div align="center">
 <a href="mailto:santhoshradha360@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 <a href="https://santhosh-kumar-0.github.io/MY-PORTFOLIO/"><img src="https://img.shields.io/badge/Portfolio-Visit-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
 
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=santhosh-kumar-0&label=PROFILE+VIEWS&style=for-the-badge&color=58A6FF" alt="Profile views"/>
-<img src="https://img.shields.io/github/followers/santhosh-kumar-0?label=FOLLOWERS&style=for-the-badge&logo=github&color=181717" alt="GitHub followers"/>
-<a href="https://github.com/santhosh-kumar-0?tab=repositories"><img src="https://img.shields.io/badge/Repositories-Explore%20All-2F81F7?style=for-the-badge&logo=github" alt="Explore repositories"/></a>
-
 </div>
 
 ---
 
+## 🖥️ `SANTHOSH@DEVELOPER:~$ whoami`
+
 <table>
-<tr><td>
+<tr>
+<td>
 
-## 👨‍💻 &nbsp; ABOUT ME
+```text
+   ███████╗
+   ██╔════╝
+   ███████╗
+   ╚════██║
+   ███████║
+   ╚══════╝
+```
 
-Hi, I'm **Santhoshkumar R**, a **B.Sc. Computer Science student** from Coimbatore, Tamil Nadu, India, working toward a career in software development.
+</td>
+<td>
 
-- ☕ Developing my skills in **Java, OOP, and Data Structures & Algorithms**.
+**SANTHOSHKUMAR R**  
+`B.Sc. Computer Science Student`
+
+📍 Coimbatore, Tamil Nadu, India  
+💻 Aspiring Software Developer  
+☕ Java · Python · JavaScript  
+🌐 React · Node.js · Express  
+🗄️ MySQL · MongoDB · SQLite  
+🧠 DSA · Problem Solving  
+🎯 Goal: Software Engineer / Full Stack Developer
+
+</td>
+</tr>
+</table>
+
+<details>
+<summary><b>⌨️ Developer terminal — quick profile</b></summary>
+
+```bash
+$ whoami
+Santhoshkumar R
+
+$ role
+B.Sc. Computer Science Student | Aspiring Software Developer
+
+$ primary_stack
+Java, Python, JavaScript, React, Node.js, Express
+
+$ databases
+MySQL, MongoDB, SQLite
+
+$ current_focus
+Core Java, DSA, SQL, Full Stack Projects
+
+$ philosophy
+Learn -> Build -> Test -> Debug -> Improve
+```
+
+</details>
+
+---
+
+## 👨‍💻 ABOUT ME
+
+I'm **Santhoshkumar R**, a B.Sc. Computer Science student from Coimbatore, Tamil Nadu, India, working toward a career in software development.
+
+- ☕ Strengthening **Java, OOP, and Data Structures & Algorithms**.
 - 🌐 Learning full-stack development with **React, Node.js, Express, and MongoDB**.
-- 🐍 Building application and automation concepts with **Python**.
+- 🐍 Using Python for application development and automation.
 - 💾 Practising SQL, database design, and problem solving.
 - 🚀 Focused on building useful projects and preparing for software engineering opportunities.
 
-**My workflow:** `LEARN` → `DESIGN` → `BUILD` → `TEST` → `DEBUG` → `IMPROVE`
+> `LEARN` → `DESIGN` → `BUILD` → `TEST` → `DEBUG` → `IMPROVE`
 
-</td></tr>
-</table>
+---
 
 ## 🧰 TECH STACK
 
 <table>
-<tr><td colspan="4" align="center"><b>⌨️ PROGRAMMING LANGUAGES</b></td></tr>
+<tr><th colspan="4">⌨️ PROGRAMMING LANGUAGES</th></tr>
 <tr>
 <td align="center" width="25%"><img src="https://skillicons.dev/icons?i=java" width="44" alt="Java"/><br/><b>Java</b></td>
 <td align="center" width="25%"><img src="https://skillicons.dev/icons?i=python" width="44" alt="Python"/><br/><b>Python</b></td>
 <td align="center" width="25%"><img src="https://skillicons.dev/icons?i=javascript" width="44" alt="JavaScript"/><br/><b>JavaScript</b></td>
-<td align="center" width="25%"><img src="https://skillicons.dev/icons?i=c" width="44" alt="C"/><br/><b>C Basics</b></td>
+<td align="center" width="25%"><img src="https://skillicons.dev/icons?i=typescript" width="44" alt="TypeScript"/><br/><b>TypeScript</b></td>
 </tr>
-<tr><td colspan="4" align="center"><b>🎨 FRONTEND DEVELOPMENT</b></td></tr>
+<tr><th colspan="4">🎨 FRONTEND DEVELOPMENT</th></tr>
 <tr>
-<td align="center"><img src="https://skillicons.dev/icons?i=html" width="44" alt="HTML"/><br/><b>HTML5</b></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=css" width="44" alt="CSS"/><br/><b>CSS3</b></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=html" width="44" alt="HTML5"/><br/><b>HTML5</b></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=css" width="44" alt="CSS3"/><br/><b>CSS3</b></td>
 <td align="center"><img src="https://skillicons.dev/icons?i=react" width="44" alt="React"/><br/><b>React</b></td>
 <td align="center"><img src="https://skillicons.dev/icons?i=bootstrap" width="44" alt="Bootstrap"/><br/><b>Bootstrap</b></td>
 </tr>
-<tr><td colspan="4" align="center"><b>⚙️ BACKEND DEVELOPMENT</b></td></tr>
+<tr><th colspan="4">⚙️ BACKEND DEVELOPMENT</th></tr>
 <tr>
 <td align="center"><img src="https://skillicons.dev/icons?i=nodejs" width="44" alt="Node.js"/><br/><b>Node.js</b></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=express" width="44" alt="Express"/><br/><b>Express.js</b></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=express" width="44" alt="Express.js"/><br/><b>Express.js</b></td>
 <td align="center"><img src="https://skillicons.dev/icons?i=flask" width="44" alt="Flask"/><br/><b>Flask</b></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=npm" width="44" alt="npm"/><br/><b>npm</b></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=fastapi" width="44" alt="FastAPI</"/><br/><b>FastAPI</b></td>
 </tr>
-<tr><td colspan="4" align="center"><b>🗄️ DATABASES</b></td></tr>
+<tr><th colspan="4">🗄️ DATABASES</th></tr>
 <tr>
 <td align="center"><img src="https://skillicons.dev/icons?i=mysql" width="44" alt="MySQL"/><br/><b>MySQL</b></td>
 <td align="center"><img src="https://skillicons.dev/icons?i=mongodb" width="44" alt="MongoDB"/><br/><b>MongoDB</b></td>
 <td align="center"><img src="https://skillicons.dev/icons?i=sqlite" width="44" alt="SQLite"/><br/><b>SQLite</b></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=firebase" width="44" alt="Firebase"/><br/><b>Firebase</b></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=postgres" width="44" alt="PostgreSQL"/><br/><b>PostgreSQL</b></td>
 </tr>
-<tr><td colspan="4" align="center"><b>🛠️ TOOLS & PLATFORMS</b></td></tr>
+<tr><th colspan="4">🛠️ TOOLS & PLATFORMS</th></tr>
 <tr>
 <td align="center"><img src="https://skillicons.dev/icons?i=git" width="44" alt="Git"/><br/><b>Git</b></td>
 <td align="center"><img src="https://skillicons.dev/icons?i=github" width="44" alt="GitHub"/><br/><b>GitHub</b></td>
@@ -89,7 +139,7 @@ Hi, I'm **Santhoshkumar R**, a **B.Sc. Computer Science student** from Coimbator
 <tr><td>
 
 ### 🍽️ Smart Canteen Pre-Order System
-A food-ordering application concept covering menu browsing, cart management, checkout, and order workflows.
+Food-ordering application concept covering menu browsing, cart management, checkout, and order workflows.
 
 **Focus:** React UI · Node.js/Express concepts · MongoDB integration
 
@@ -97,7 +147,7 @@ A food-ordering application concept covering menu browsing, cart management, che
 <tr><td>
 
 ### 💬 Python Chat Application
-A desktop chat application concept focused on client/server communication and database-backed records.
+Desktop chat application concept focused on client/server communication and database-backed records.
 
 **Focus:** Python · PyQt · SQLite
 
@@ -105,7 +155,7 @@ A desktop chat application concept focused on client/server communication and da
 <tr><td>
 
 ### 📊 Student Performance Analytics
-A data-processing and prediction workflow for analysing student performance.
+Data-processing and prediction workflow for analysing student performance.
 
 **Focus:** Python · Data processing · Machine learning concepts
 
@@ -113,7 +163,7 @@ A data-processing and prediction workflow for analysing student performance.
 <tr><td>
 
 ### 🧾 Pharmacy Billing Application
-A medicine-record and billing application concept with invoice generation.
+Medicine-record and billing application concept with invoice generation.
 
 **Focus:** Python · Tkinter · CSV data
 
@@ -121,7 +171,7 @@ A medicine-record and billing application concept with invoice generation.
 <tr><td>
 
 ### 👥 Resume Intelligence & HR Workflow
-An application concept for supporting resume processing and reducing repetitive HR tasks.
+Application concept for supporting resume processing and reducing repetitive HR tasks.
 
 **Focus:** Python · Flask · SQLite · HTML · CSS · JavaScript
 
@@ -129,12 +179,12 @@ An application concept for supporting resume processing and reducing repetitive 
 </table>
 
 <div align="center">
-<a href="https://github.com/santhosh-kumar-0?tab=repositories"><img src="https://img.shields.io/badge/VIEW-ALL%20REPOSITORIES-58A6FF?style=for-the-badge&logo=github&logoColor=white" alt="View all repositories"/></a>
+<a href="https://github.com/santhosh-kumar-0?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE-ALL%20REPOSITORIES-58A6FF?style=for-the-badge&logo=github&logoColor=white" alt="Explore all repositories"/></a>
 </div>
 
 ---
 
-## 📈 GITHUB DASHBOARD
+## 📊 GITHUB DASHBOARD
 
 <div align="center">
 
@@ -147,24 +197,12 @@ An application concept for supporting resume processing and reducing repetitive 
 
 <br/><br/>
 
-<a href="https://github.com/santhosh-kumar-0">
-<img width="90%" src="https://streak-stats.demolab.com?user=santhosh-kumar-0&theme=github-dark-blue&hide_border=true" alt="Contribution streak"/>
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/santhosh-kumar-0">
-<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=santhosh-kumar-0&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="Contribution activity graph"/>
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/santhosh-kumar-0?tab=repositories"><img src="https://img.shields.io/badge/Repository%20Count-See%20GitHub%20Profile-30363D?style=for-the-badge&logo=github" alt="Repository list"/></a>
-<a href="https://github.com/santhosh-kumar-0"><img src="https://img.shields.io/badge/Contribution%20History-View%20Activity-238636?style=for-the-badge&logo=github" alt="Contribution history"/></a>
+<a href="https://github.com/santhosh-kumar-0?tab=repositories"><img src="https://img.shields.io/badge/REPOSITORIES-OPEN%20ON%20GITHUB-30363D?style=for-the-badge&logo=github" alt="Open repository list"/></a>
+<a href="https://github.com/santhosh-kumar-0?tab=overview&from=2026-01-01&to=2026-12-31"><img src="https://img.shields.io/badge/CONTRIBUTIONS-VIEW%20GITHUB%20ACTIVITY-238636?style=for-the-badge&logo=github" alt="View GitHub contribution activity"/></a>
 
 </div>
 
-> **Stats note:** Repository and contribution totals are not hard-coded, because they change over time and GitHub's contribution count can differ by date range and privacy settings. The stats cards and activity graph are loaded from external services and may occasionally be unavailable or cached.
+**Repository count and contributions:** See the live values on your [GitHub profile](https://github.com/santhosh-kumar-0) and [contribution activity](https://github.com/santhosh-kumar-0?tab=overview). This avoids hard-coded numbers becoming outdated. Statistics cards depend on an external service and may occasionally be unavailable or cached.
 
 ---
 
@@ -184,17 +222,14 @@ An application concept for supporting resume processing and reducing repetitive 
 </table>
 
 <div align="center">
-
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=17&duration=1700&pause=500&color=58A6FF&center=true&vCenter=true&width=720&lines=ARRAYS+%7C+STRINGS+%7C+RECURSION;STACKS+%7C+QUEUES+%7C+TREES;SEARCHING+%7C+SORTING+%7C+LOGIC" alt="Animated DSA topics"/>
-
 </div>
 
 ---
 
 ## 🎯 CURRENT FOCUS
 
-<table>
-<tr><td>
+<table><tr><td>
 
 - [ ] Strengthen Core Java and OOP.
 - [ ] Practise DSA and coding assessments consistently.
@@ -204,8 +239,7 @@ An application concept for supporting resume processing and reducing repetitive 
 - [ ] Deploy projects and document repositories professionally.
 - [ ] Prepare for software developer interviews and placements.
 
-</td></tr>
-</table>
+</td></tr></table>
 
 ---
 
@@ -244,6 +278,6 @@ An application concept for supporting resume processing and reducing repetitive 
 
 </div>
 '''
-out = Path("/mnt/data/README_Developer_Edition.md")
+out = Path("/mnt/data/README_Santhosh_Final.md")
 out.write_text(readme, encoding="utf-8")
-print(f"Created {out} ({len(readme.splitlines())} lines, {len(readme)} characters)")
+print(f"Created {out} ({len(readme.splitlines())} lines)")
